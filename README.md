@@ -1,4 +1,4 @@
-# Stock-price-prediction-using-LSTM-and-sentimental-analysis
+# Stock-price-prediction-using-LSTM-and-ARIMA
 Predict the stock prices using LSTM and sentimental analysis and compare them with their accuracy.
 
-### Achieved an RMSE of 0.25 in sentimental analysis technique.
+### Achieved an Rsquare of 0.9925 in ARIMA technique.
